@@ -1,0 +1,10 @@
+a:is(:link, :active, :visited).active {
+    color: rgb(255, 255, 255);
+    border-bottom: 5px solid rgb(255, 255, 255);
+    width: auto;
+    border-radius: 1px;
+    transition: 0.5s ease;
+    font-size: 32px;
+}
+    
+    
